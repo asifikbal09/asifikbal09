@@ -42,7 +42,7 @@ I’m Md Asif Ikbal, a MERN Stack Developer passionate about building dynamic an
 ## &#x1f4c8; GitHub Stats
 
 <br>
-<div style="display:'flex'; gap:'10px'">
+<div style="display:flex; gap:10px; width: 100%;">
 <a href="https://github.com/asifikbal09">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifikbal09&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -53,7 +53,7 @@ I’m Md Asif Ikbal, a MERN Stack Developer passionate about building dynamic an
 </div>
 <br>
 <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asifikbal09&theme=tokyonight" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asifikbal09&theme=tokyonight&hide_longest_streak=true" alt="GitHub Streak" /></a>
 <br>
 <br>
 
