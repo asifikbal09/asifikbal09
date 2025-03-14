@@ -80,6 +80,6 @@ I’m Md Asif Ikbal, a MERN Stack Developer passionate about building dynamic an
 </div>
 <br>
 <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asifikbal09&theme=tokyonight&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asifikbal09&theme=tokyonight" alt="GitHub Streak" /></a>
 <br>
 <br>
