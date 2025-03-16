@@ -83,3 +83,14 @@ I’m Md Asif Ikbal, a MERN Stack Developer passionate about building dynamic an
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asifikbal09&theme=tokyonight" alt="GitHub Streak" /></a>
 <br>
 <br>
+
+## 📫 Let's Connect  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/md-asif-ikbal09/)  
+- 🌐 [Portfolio](https://my-portfolio-nu-three-76.vercel.app/)  
+- 📧 [Email](mailto:asif.ikbal662@gmail.com)  
+
+🚀 Keep building, keep learning, and keep growing!  
+
+_"Code is like humor. When you have to explain it, it’s bad."_ – Cory House  
+
+
