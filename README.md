@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @asifikbal09
-- 👀 I’m interested in blockchain development.
-- 🌱 I’m currently learning web development.
-
 ![Asif's GitHub Banner](./assets/GitHubHeader.jpg)
 
 ![Visits Badge](https://badges.pufler.dev/visits/asifikbal09/asifikbal09)
